@@ -1,8 +1,0 @@
-				System.out.println(" inc ");
-				for (Integer[] range: incRanges) {
-					System.out.println( Arrays.toString(range) );
-				}
-				System.out.println(" dec ");
-				for (Integer[] range: decRanges) {
-					System.out.println( Arrays.toString(range) );
-				}
